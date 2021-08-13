@@ -1,2 +1,2 @@
 # learning-java
-Completing a Java Mastery course.
+Completing full-length Java courses and practice sets. 
