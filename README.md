@@ -1,2 +1,4 @@
 # learning-java
-Completing full-length Java courses and practice sets. 
+Completing the Java Programming Masterclass by Tim Buchalka. 
+Each project in the course is uploaded here.
+
